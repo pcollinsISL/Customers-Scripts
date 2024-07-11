@@ -1,0 +1,140 @@
+[Snippets]
+Version=1.0
+
+[Snippet]
+Description=Email mandatory response
+
+>Dear [Client's name]
+>Thank you for your e-mail enquiry regarding [topic].
+>Here is your reference number [CA-xxxx]
+>You should keep a note of this number so we can identify you if you use the service again.
+>[A brief summary of the enquiry should be added here.]
+>The Citizens Advice website has information that may help you resolve your problem, and can be found at www.citizensadvice.org.uk.
+>Based on the information you have provided  [add in a summary of your information/advice]
+>The relevant information about your issue can be found on the link/s below, click to open.
+>Pay particular attention to the section called [******] this explains your rights in the situation you have described in your email.
+>We hope that the information provided will help resolve your problem. If you need further help please do contact us again, our contact details are found below.
+
+[Snippet]
+Description=Email emergency response
+
+>Based on the what you have told us we think you should seek immediate assistance as soon as you can from [delete as appropriate]
+>Sussex Police on 101 (15p per call) or 999 if the danger is immediate
+>Social Services on Adults CarePoint on 01243 642121 Mon- Fri 9am-5pm + duty social worker out of hours (standard rate) 
+>Domestic Violence Helpline on  0808 2000 247 Freephone 24hr 
+>Samaritans Helpline on 116 123 Freephone 24hr
+>Stepchange Debt Advice on 0800 138 1111Freephone Mon-Fri 8am-8pm, Sat 8am-4pm 
+>Citizens Advice on 0808 278 7969 Monday to Friday 10am - 4pm (standard rate)
+
+[Snippet]
+Description=Generalist write up template
+
+>Note summary
+>Goal:
+ 
+>	What does the client want?
+>
+>
+>Exploration: EIQ booklet to support holistic exploration
+
+>	Details of issue.
+>
+>
+>
+>	FAME: Family, accommodation, money, employment.
+>
+>
+>
+>	Immigration status?
+>
+>
+>
+>	What has the client done?
+>
+>
+>
+>	Emergencies?
+>
+>
+>
+>	Time Limits?
+>
+>
+>
+>
+>
+>Information/Advice and Options: 
+>
+>
+>Clients capabilities v complexity (access to internet etc)
+>
+>
+>Pros and cons to assist making an informed decision.
+>
+>
+>Research, information sources: public site, advisernet, government website, Disability rights handbook (DRH) CPAG books for benefits etc.
+(This can be put into separate section further down on CB record)
+
+ 
+>Next Steps:
+>	What is the client going to do?
+>
+>	What are we going to do?
+>
+>	Is a further appointment required for other issues.
+>
+>
+>In different sections of CB write up.
+>
+>3 x AICs at least to be recorded.
+>Funders correct: CORE Y/N
+>Research and campaigns: Y/N
+>Outcomes recorded: Can be expected or actual. Monetary or how client feels. Y/N
+
+
+
+[Snippet]
+Description=Explicit Consent Script
+
+>You've just mentioned some sensitive data, specifically about ....
+>
+>We need to get explicit consent from you to record this sensitive data on our National database in order for us to help you with your enquiry.
+>
+>1. we will only access it if we have good reason to do so;
+>2. will only share what is relevant and necessary and then only with your consent;
+>3. won't sell it to commercial organisations
+
+>Are you happy for us to keep a record about this as part of your case record?
+
+
+
+
+>[Paste this script into your write up and update 'Consent to use special category data' on casebook. Show as Granted, or Renew.]
+
+[Snippet]
+Description=Consent to store personal data script
+
+>When we record and use your personal information we:
+>
+>- will only access it when we have a good reason
+>- will only share what is necessary and relevant
+>- won't sell it to commercial organisations
+>
+>We need to record information about you to help with your enquiry. If you would like more information about how we'll use your data and store your data please ask me where you can find our privacy notice.
+
+[Snippet]
+Description=Ring back script
+
+>Arranging a call back:
+>Q. One of my colleagues will be calling you back, which number would you prefer we contact you on?
+>A.
+>
+>Q. If you don't pick up is it ok to leave a message?
+>A.
+>
+>Q. If someone else picks up the phone, is it ok to say it is Citizens Advice calling or should this be kept confidential?
+>A.
+>
+>When we call you back our number will come up as unknown. The adviser will need to ask you two security questions, such as your post code and D.O.B so that were sure we are talking to the right person. We can set up a code word so that you know it's us calling, what code word would you like to give us?
+>A. code word:
+
