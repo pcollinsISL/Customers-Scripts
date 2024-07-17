@@ -29,6 +29,11 @@ Description=Email emergency response
 [Snippet]
 Description=Generalist write up template
 
+>Consents checked and updated.
+>Special Category data (SCD), do we have consent to record? Check and update with returning clients.
+>
+>Consent to refer? Y/N
+>
 >Note summary
 >Goal:
  
