@@ -36,39 +36,23 @@ Description=Generalist write up template
 >
 >Note summary
 >Goal:
- 
 >	What does the client want?
 >
->
 >Exploration: EIQ booklet to support holistic exploration
-
 >	Details of issue.
->
->
 >
 >	FAME: Family, accommodation, money, employment.
 >
->
->
 >	Immigration status?
->
->
 >
 >	What has the client done?
 >
->
->
 >	Emergencies?
->
->
 >
 >	Time Limits?
 >
 >
->
->
->
->Information/Advice and Options: 
+>Information/Advice and Options:
 >
 >
 >Clients capabilities v complexity (access to internet etc)
@@ -78,9 +62,6 @@ Description=Generalist write up template
 >
 >
 >Research, information sources: public site, advisernet, government website, Disability rights handbook (DRH) CPAG books for benefits etc.
-(This can be put into separate section further down on CB record)
-
- 
 >Next Steps:
 >	What is the client going to do?
 >
