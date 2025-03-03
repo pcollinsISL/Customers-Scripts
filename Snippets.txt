@@ -29,8 +29,6 @@ Description=Email emergency response
 [Snippet]
 Description=Generalist write up template
 
->Consents checked and updated.
->Special Category data (SCD), do we have consent to record? Check and update with returning clients.
 >
 >Consent to refer? Y/N
 >
@@ -77,36 +75,10 @@ Description=Generalist write up template
 >Research and campaigns: Y/N
 >Outcomes recorded: Can be expected or actual. Monetary or how client feels. Y/N
 
-
-
-[Snippet]
-Description=Explicit Consent Script
-
->You've just mentioned some sensitive data, specifically about ....
->
->We need to get explicit consent from you to record this sensitive data on our National database in order for us to help you with your enquiry.
->
->1. we will only access it if we have good reason to do so;
->2. will only share what is relevant and necessary and then only with your consent;
->3. won't sell it to commercial organisations
-
->Are you happy for us to keep a record about this as part of your case record?
-
-
-
-
->[Paste this script into your write up and update 'Consent to use special category data' on casebook. Show as Granted, or Renew.]
-
 [Snippet]
 Description=Consent to store personal data script
 
->When we record and use your personal information we:
->
->- will only access it when we have a good reason
->- will only share what is necessary and relevant
->- won't sell it to commercial organisations
->
->We need to record information about you to help with your enquiry. If you would like more information about how we'll use your data and store your data please ask me where you can find our privacy notice.
+>As part of the advice session today we will ask you for some details about yourself and the issue you are looking for help with. We will use this information to provide you with advice as well as to improve our service and inform our campaigns. If you want more detail about your rights and how we use your information you can read our privacy notice on our website or there are paper copies available to view in the office if you prefer.
 
 [Snippet]
 Description=Ring back script
